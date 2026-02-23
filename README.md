@@ -51,6 +51,33 @@ python --version
 Python 3.10.19
 ```
 
+# Configurar Python en VS Code
 
+- Abre VS Code
+
+- Ve a Extensions (Ctrl + Shift + X)
+
+- Busca Python
+
+- Instala la extensión oficial de Microsoft
+
+# Seleccionar el intérprete correcto
+
+- Abre un proyecto o carpeta en VS Code
+
+- Presiona:
+```bash
+Ctrl + Shift + P
+```
+
+- Escribe:
+```bash
+Python: Select Interpreter
+```
+
+- Elige:
+```bash
+Python 3.10.19 (64-bit)
+```
 
 
